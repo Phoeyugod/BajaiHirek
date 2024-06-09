@@ -19,6 +19,10 @@ a:focus {
     text-decoration: none;
 }
 
+#logo{
+    height: 1000px;
+}
+
 p {
     color: #353535;
     padding: 0;
